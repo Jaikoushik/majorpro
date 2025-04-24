@@ -9,7 +9,7 @@ from selenium.webdriver.support import expected_conditions as EC
 import time
 
 # Set up Gemini API key
-GEMINI_API_KEY = "AIzaSyBJoPu7ohUAtX7TTSliUtsGDG-U7dNWXag"  # Replace with your actual API key
+GEMINI_API_KEY = ""  # Replace with your actual API key
 genai.configure(api_key=GEMINI_API_KEY)
 
 # Setup Chrome with Selenium
