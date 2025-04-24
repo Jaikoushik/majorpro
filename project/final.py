@@ -19,7 +19,7 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(
 logger = logging.getLogger(__name__)
 
 # Gemini API Setup
-GEMINI_API_KEY = "AIzaSyBJoPu7ohUAtX7TTSliUtsGDG-U7dNWXag"  # Replace with your actual API key
+GEMINI_API_KEY = ""  # Replace with your actual API key
 genai.configure(api_key=GEMINI_API_KEY)
 
 # Initialize Flask app
