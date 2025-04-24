@@ -1,0 +1,176 @@
+Tweet 1: Yeh guts tho ok chesav @tarak9999 x.com/Girish__35/sta…
+Analysis: Not a dark pattern. This appears to be a casual comment in Telugu.
+
+Tweet 2: bhAAi information?
+Analysis: Not a dark pattern. A simple question.
+
+Tweet 3: Farewell meaning telusa bhaai neeku @Admirer66947P ,leka gorrela gumpulo padi matladathava
+Analysis: Not a dark pattern.  A seemingly informal and possibly aggressive comment in Telugu.
+
+Tweet 4: Bhaai ye knsa exam ka h please btwo mujhe bhi barna h
+Analysis: Not a dark pattern. A request for information.
+
+Tweet 5: You wife loves you because you are her husband
+Analysis: Not a dark pattern. A simple, albeit somewhat obvious, statement.
+
+Tweet 6: Rey delete chey .vedu tdp valla kukka .babu ni em annodhu .kavali ante veedini dengu .babu devuditho samanm entho mandi hearts save chesadu
+Analysis: Potentially a dark pattern. This tweet contains aggressive and abusive language targeting a political figure (likely referring to TDP and its leader Chandrababu Naidu).  The use of inflammatory language could be considered manipulation.
+
+Tweet 7: సీఎం రేవంత్ రెడ్డి పేరు మర్చిపోయిన బైరి నరేష్  x.com/TeluguScribe/s…
+Analysis: Not a dark pattern. This appears to be a news headline or commentary.
+
+Tweet 8: bhAAi fans ante Minimum untadhi mari
+Analysis: Not a dark pattern. An opinion on fan numbers.
+
+Tweet 9: bhaai mere clg mei toh aari companies recently I got an internship ..ky baat krre bro
+Analysis: Not a dark pattern. Sharing personal news.
+
+Tweet 10: BhAAi Cute Sweet HANDSOME Kurrodu is back @alluarjun
+Analysis: Not a dark pattern.  Fan appreciation.
+
+Tweet 11: Orey lanjakodaka trolls defend Chesukolenappdu. Pakkaki dengey . personal trolls vesthav entra .pilla lanjakodakallara
+Analysis: Potentially a dark pattern. This tweet uses highly abusive language and could be considered cyberbullying or online harassment.
+
+Tweet 12: Bhaai kasi laane nak kuda kasi bro
+Analysis: Not a dark pattern. Informal expression.
+
+Tweet 13: It's okay bro Focus on your life please. Movies are just for entertainment we feeling like god our life trouble
+Analysis: Not a dark pattern.  Advice and perspective.
+
+Tweet 14: Which is the most awaited Pan-India feature film of the ones led by Telugu Superstars - #Prabhas, #AlluArjun, #MaheshBabu & #NTRJr?
+Analysis: Not a dark pattern. A poll question.
+
+Tweet 15: BhAAi ye gayu kon he?
+Analysis: Potentially a dark pattern. This is a homophobic slur and constitutes hate speech.
+
+Tweet 16: Tum andar chalo
+Analysis: Not a dark pattern.  An ambiguous phrase, possibly an invitation.
+
+Tweet 17: Enduku bhAAi thala pai hatred
+Analysis: Not a dark pattern. A question about negative feelings.
+
+Tweet 18: bhAAi tho petkunte evadina mattilo kalisipotharu. ‍
+Analysis: Not a dark pattern.  A comment suggesting conflict.
+
+Tweet 19: After 1 song 4 advertisements... fucking @spotifyindia @Spotify Don't use this fraud @Spotify guys #BanSpotify
+Analysis: Not a dark pattern.  A complaint about a service.
+
+Tweet 20: Online reputation management kosam pani chesey coolie lanjakodaka antunnadu bhAAi
+Analysis: Potentially a dark pattern. This uses abusive language and could be considered defamation.
+
+Tweet 21: Edhee evala Matta okapudu kuda enthey meeru kani PK nee em ayina antey AA react ayinatu RC yekada react kaledu. PK kee dapu kotinatu RC kotaledu.Just Mona meeting kee vacharu anthey okapudu leru veelu . AA ney unadu dabulu tho sahayam chesadu apudu yevadu ledu meeku support
+Analysis: Potentially a dark pattern. This appears to be political commentary potentially manipulating public opinion by selectively presenting information.
+
+Tweet 22: Rey itla cheykoodadhu thappu
+Analysis: Not a dark pattern. A simple rebuke.
+
+Tweet 23: Ah siva cherry gade ga
+Analysis: Not a dark pattern.  A casual comment.
+
+Tweet 24: Oka family nee vididhisina papam manaki Odhu
+Analysis: Not a dark pattern.  A statement about family issues.
+
+Tweet 25: yemaindi Nithin bhAAi
+Analysis: Not a dark pattern. A simple question.
+
+Tweet 26: Nee lanti kojjala valla babu mida trolls vesthunnaru kojja nakodakallara
+Analysis: Potentially a dark pattern. This uses abusive language and could be considered online harassment.  It also seems politically motivated.
+
+Tweet 27: Avi whatsApp stickers bhAAi
+Analysis: Not a dark pattern.  A clarification.
+
+Tweet 28: BhAAi eh kadu BhAAi fans names kuda unique untay
+Analysis: Not a dark pattern. An observation.
+
+Tweet 29: bhAAi is lub
+Analysis: Not a dark pattern.  An expression of affection.
+
+Tweet 30: RC gadu pk kee AA echinantha support yepudu evaledu bro fact edhee . Kani fans mathram RC antey mundhu unttaru AA kantey bonding lo unapudu kuda
+Analysis: Potentially a dark pattern. This is political commentary that may be manipulating public opinion by selectively presenting information.
+
+Tweet 31: Ipudu ardhmayindhi.. adhi bhAAi thappu kadhu... KCR ala noted ipoyadu janalalo.. sudden ga TS cm evarra ani adigithey.. maximum Andhariki KCR eh strike avtharu anukunta
+Analysis: Potentially a dark pattern. This is political commentary that may be manipulating public opinion.
+
+Tweet 32: Bro ee musgu gadu mattalu namakamdee. Always respect to Pawan Kalyan anna
+Analysis: Not a dark pattern.  An expression of opinion.
+
+Tweet 33: Idi em undi bhaai jujubi
+Analysis: Not a dark pattern. A question.
+
+Tweet 34: Good morning bhAAi
+Analysis: Not a dark pattern. A greeting.
+
+Tweet 35: Naku dorakaledu bhaai
+Analysis: Not a dark pattern. A statement.
+
+Tweet 36: Ademina bhAAi anukunnava bokkalo veyyadaniki
+Analysis: Not a dark pattern. A rhetorical question.
+
+Tweet 37: Varudu cinema ghost director kuda bhaai e na
+Analysis: Not a dark pattern. A question about a film.
+
+Tweet 38: @ssrajamouli niku correct Mogudu bhAAi ey
+Analysis: Not a dark pattern. An opinion.
+
+Tweet 39: Happy Birthday bhaai @LIKHITRTF
+Analysis: Not a dark pattern. A birthday wish.
+
+Tweet 40: EM pikaleru brother pic sariga kani pinchaledu kuda yevadiki . Orey pk fans ga meeru Ella unda kudadhu vote lu padav mee hero kee . Mee hero kee lenidhee meek yenduku ra. Ella ney untey yevadu vote lu veyadu pb fans anttaru vallu kuda em ledu challa varaku YCP aey .
+Analysis: Potentially a dark pattern. This is political commentary that may be manipulating public opinion.
+
+Tweet 41: Rey lucha ga oka family kalavali ani kuntey vididhisina papam manaki Odhu please vadiley ra edhee Correct kadhu
+Analysis: Not a dark pattern.  A statement about family issues.
+
+Tweet 42: Mari esutunava bhaai
+Analysis: Not a dark pattern. A question.
+
+Tweet 43: Ippudu bhAAi pk ni kalisadu kada bhAAi arrest ayinappudu meeru kalisara??
+Analysis: Not a dark pattern. A question.
+
+Tweet 44: Idhi bhAAi chusadu anuko idhe look tho movie thisi hit kodathadu
+Analysis: Not a dark pattern. A comment about a film.
+
+Tweet 45: Em adigav bhaai
+Analysis: Not a dark pattern. A question.
+
+Tweet 46: Badrinath aa adi bhAAi kuda chusi undadu
+Analysis: Not a dark pattern. A statement.
+
+Tweet 47: BhAAi iconic laugh gurinchi antunnadu ..
+Analysis: Not a dark pattern. A comment.
+
+Tweet 48: Bhaai kaun sa nasha karta h
+Analysis: Not a dark pattern. A question.
+
+Tweet 49: Happy Birthday bhaai
+Analysis: Not a dark pattern. A birthday wish.
+
+Tweet 50: Adentra bhAAi fans SSR ne kodtham antunaru ntr neel oka leke naaa
+Analysis: Potentially a dark pattern. This could be spreading misinformation or inciting hatred.
+
+Tweet 51: Godavallu unapudu elantivi common kani bonding lo unantha kallam AA echina support>>>RC kani fans RC kee echey support>>> AA
+Analysis: Potentially a dark pattern. This is political commentary that may be manipulating public opinion.
+
+Tweet 52: Big fan anna free ga isthava
+Analysis: Not a dark pattern. A question.
+
+Tweet 53: Those who are projecting WAQ as anti hindu veli ghani bhaai gadi MG
+Analysis: Potentially a dark pattern. This could be spreading misinformation or inciting religious hatred.
+
+Tweet 54: If you are not able to make for tier 1, you will say these kind Before preparing for govt exams I told old this same way I can easily crack, but while preparing I understood I am ok if nani can top tier 1 and say it is stupid idea
+Analysis: Not a dark pattern.  A personal reflection.
+
+Tweet 55: Dhandam ra dhootha @RishabhPant17 @LucknowIPL
+Analysis: Not a dark pattern.  A comment.
+
+Tweet 56: Quotes lo bonding lo vunna s, bhAAi ni Jail lo dengaaru ani dengutunaaru
+Analysis: Potentially a dark pattern. This could be spreading misinformation or inciting hatred.
+
+Tweet 57: 24/7 nuvvey anna @alluarjun #AA22xA6
+Analysis: Not a dark pattern.  Fan appreciation.
+
+Tweet 58: Shreyas ni enduk odhileysar antey counter ga thirigi vaala medha padthav enthi bhAAi
+Analysis: Not a dark pattern. A question.
+
+
+**Summary of Dark Patterns:**  Several tweets exhibit potential dark patterns, primarily through the use of abusive language, hate speech, and potentially manipulative political commentary.  The most concerning are those using homophobic slurs, inciting hatred towards political figures or religious groups, and those selectively presenting information to sway public opinion.  Many tweets are simply casual conversations or opinions and do not constitute dark patterns.

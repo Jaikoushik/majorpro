@@ -1,0 +1,22 @@
+1. **Product title:** Samsung Galaxy S25 Ultra 5G AI Smartphone (Titanium Silverblue, 12GB RAM, 1TB Storage), 200MP Camera, S Pen Included, Long Battery Life
+2. **Product URL:** Not available
+3. **Dark pattern detected?:** No
+
+
+1. **Product title:** Samsung Galaxy M35 5G (Daybreak Blue,8GB RAM,256GB Storage)| Corning Gorilla Glass Victus+| AnTuTu Score 595K+ | Vapour Cooling Chamber | 6000mAh Battery | 120Hz Super AMOLED Display| Without Charger
+2. **Product URL:** Not available
+3. **Dark pattern detected?:** No
+
+
+1. **Product title:** Nothing Phone (3a) 5G (8GB RAM + 128GB Storage) (White)
+2. **Product URL:** https://www.amazon.in/Nothing-Phone-128GB-Storage-White/dp/B0DZTMFWDB/ref=sr_1_3?dib=eyJ2IjoiMSJ9.org-TQL17gAgOHWCg_YqCW7Aqqmi3t5RcRDafub8qE0OPaGcamZ5O-UfnsYZ0x7XLiuxdz3Dd2oP7fP7rFj9ZN8eNk9OVHnqa3aQ5rksV8CpA5ZUhNK5hS_KL7xUnW4Dn2jKvc8ZPibhU0hfZ6FQqpHNw93wqh1J1JgDye8qoCTlSW3r6pMuecm2r-0_jtgahZ0qYc550_tI7sZZyUtUTYnOswN71GYg36sluQJpwxY.t_JdvbjtVxJ8skoBB1uQkLzydJG880sJfYAGlZFAW2U&dib_tag=se&keywords=phone&qid=1744566508&sr=8-3
+3. **Dark pattern detected?:** No
+
+
+1. **Product title:** CMF BY NOTHING Phone 1 5G (128 GB) (8 GB RAM) (Black)
+2. **Product URL:** https://www.amazon.in/CMF-NOTHING-Phone-128-Black/dp/B0D93396RT/ref=sr_1_4?dib=eyJ2IjoiMSJ9.org-TQL17gAgOHWCg_YqCW7Aqqmi3t5RcRDafub8qE0OPaGcamZ5O-UfnsYZ0x7XLiuxdz3Dd2oP7fP7rFj9ZN8eNk9OVHnqa3aQ5rksV8CpA5ZUhNK5hS_KL7xUnW4Dn2jKvc8ZPibhU0hfZ6FQqpHNw93wqh1J1JgDye8qoCTlSW3r6pMuecm2r-0_jtgahZ0qYc550_tI7sZZyUtUTYnOswN71GYg36sluQJpwxY.t_JdvbjtVxJ8skoBB1uQkLzydJG880sJfYAGlZFAW2U&dib_tag=se&keywords=phone&qid=1744566508&sr=8-4
+3. **Dark pattern detected?:** No
+
+
+1. **Product title:** Samsung Galaxy M35 5G (Daybreak Blue,8GB RAM,256GB Storage)| Corning Gorilla Glass Victus+| AnTuTu Score 595K+ | Vapour Cooling Chamber | 6000mAh Battery | 120Hz Super AMOLED Display| Without Charger
+2. **Product URL:** https://www.amazon.in/Samsung-Daybreak-Storage-Corning-Gorilla/dp/B0D812DY6P/ref=sr_1_5?dib=eyJ2IjoiMSJ9.org-TQL17gAgOHWCg_YqCW7Aqqmi3t5RcRDafub8qE0OPaGcamZ5O-UfnsYZ0x7XLiuxdz3Dd2oP7fP7rFj9ZN8eNk9OVHnqa3aQ5rksV8CpA5ZUhNK5hS

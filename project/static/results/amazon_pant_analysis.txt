@@ -1,0 +1,60 @@
+---PRODUCT 1---
+Title: Men's Flexi Waist Casual Pants | Stretchable Chinos | Stylish Office Fashion Trousers (Available in Slim Fit & Regular Fit)
+Dark pattern detected? (No)
+
+---PRODUCT 2---
+Title: Men's Stretchable Casual Pants | Scoop Pocket Chinos | Trousers (Slim Fit)
+Dark pattern detected? (No)
+
+---PRODUCT 3---
+Title: Men's Casual Cotton Pants | Chinos | Trousers (Regular Fit)
+Dark pattern detected? (No)
+
+---PRODUCT 4---
+Title: Office Joggers Lite for Men, Comfortable Trousers with Stretchablity
+Dark pattern detected? (No)
+
+---PRODUCT 5---
+Title: Men's Stretchable Stretchable Formal Pant Trousers | Stylish Slim Fit Men's Wear Trousers for Office or Party | Polycotton Knitted Fabric
+Dark pattern detected? (No)
+
+---PRODUCT 6---
+Title: Men's Super Slim Fit Premium Wrinkle Free Casual Trouser Chinos
+Dark pattern detected? (No)
+
+---PRODUCT 7---
+Title: Men Cargo || Men Cargo Pants || Men Cargo Pants Cotton || Cargos for Men (Cargo-117-120)
+Dark pattern detected? (Yes)  The discount is unusually high, suggesting a potentially inflated original price.
+
+---PRODUCT 8---
+Title: Track Pant for Men || Joggers for Men for Running || Gym Sports Lower for Men & Boys Track Pants for Men Multipurpose || Mens Lower Activewear Cargo Pant
+Dark pattern detected? (Yes) The discount is unusually high, suggesting a potentially inflated original price.
+
+---PRODUCT 9---
+Title: Regular Fit Solid Superior Comfort with Extra Stretch Trouser
+Dark pattern detected? (No)
+
+---PRODUCT 10---
+Title: Regular Track Pant for Men || Track Pants || Plain Track Pant (Track-06-08)
+Dark pattern detected? (Yes) The discount is unusually high, suggesting a potentially inflated original price.
+
+---PRODUCT 11---
+Title: Men's Premium Polycotton Causal Baggy Fit Jogger || Lightweight & Flexible Elastic Waist with Drawstring || Wrinkle-Free Comfortable Trouser Pant for Summer
+Dark pattern detected? (No)
+
+---PRODUCT 12---
+Title: Men Cargo || Men Cargo Pants || Men Cargo Pants Cotton || Cargos for Men (Cargo-58-61)
+Dark pattern detected? (Yes) The discount is unusually high, suggesting a potentially inflated original price.
+
+---PRODUCT 13---
+Title: Men Comfort Fit Solid Cotton I690 Casual Style Lounge Pants - Pack Of 1
+Dark pattern detected? (No)
+
+---PRODUCT 14---
+Title: Solid Drawstring Relexed Fit Straight Leg Pants for Men's
+Dark pattern detected? (No)
+
+---PRODUCT 15---
+Title: Track Pant for Men || Track Pants || Plain Track Pant (TP-57-58)
+Dark pattern detected? (Yes) The discount is unusually high, suggesting a potentially inflated original price.
+

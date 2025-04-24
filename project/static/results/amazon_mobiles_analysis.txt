@@ -1,0 +1,60 @@
+1. **Product title:** Apple iPhone 15 (256 GB) - Black
+2. **Product URL:** Not available
+3. **Dark pattern detected?:** No
+
+1. **Product title:** iPhone 16e 128 GB: Built for Apple Intelligence, A18 Chip, Supersized Battery Life, 48MP Fusion. Camera, 15.40 cm (6.1″) Super Retina XDR Display; Black
+2. **Product URL:** Not available
+3. **Dark pattern detected?:** No
+
+1. **Product title:** Samsung Galaxy M05 (Mint Green, 4GB RAM, 64 GB Storage) | 50MP Dual Camera | Bigger 6.7" HD+ Display | 5000mAh Battery | 25W Fast Charging | 2 Gen OS Upgrade & 4 Year Security Update | Without Charger
+2. **Product URL:** https://www.amazon.in/Samsung-Storage-Display-Charging-Security/dp/B0DFY3XCB6/ref=sr_1_3?dib=eyJ2IjoiMSJ9.Zu16M0f4gcJTITvmFzGqszW-Apfe-FsYhV-0doXh17R9Q2D-AXj8U0r6pIA3BPB10MpNwx5RHEavD5E1OhGBewNDnx9eC3Ss41ythqCmDDRyGUzvmyIhOEo-BETfojFRQy4Z6hFYK_7sw-o8E5WVBidDTIPwXuAl4joZq11K3pQoYW2H6_lhAFQ7_O6HbdId08Pa3WEUVnoYyy2GzimJB1ZvwfMcbp7XrSYNuEqr2vw.c7_Mh51dq-K-EYPqxjLi9KUdP59sjoywtVDncVN6v44&dib_tag=se&keywords=mobiles&qid=1744696057&sr=8-3
+3. **Dark pattern detected?:** No
+
+1. **Product title:** Redmi A4 5G (Starry Black, 4GB RAM, 128GB Storage) | Global Debut SD 4s Gen 2 | Segment Largest 6.88in 120Hz | 50MP Dual Camera | 18W Fast Charging
+2. **Product URL:** https://www.amazon.in/Redmi-A4-5G-Storage-Charging/dp/B0DLW4QD72/ref=sr_1_4?dib=eyJ2IjoiMSJ9.Zu16M0f4gcJTITvmFzGqszW-Apfe-FsYhV-0doXh17R9Q2D-AXj8U0r6pIA3BPB10MpNwx5RHEavD5E1OhGBewNDnx9eC3Ss41ythqCmDDRyGUzvmyIhOEo-BETfojFRQy4Z6hFYK_7sw-o8E5WVBidDTIPwXuAl4joZq11K3pQoYW2H6_lhAFQ7_O6HbdId08Pa3WEUVnoYyy2GzimJB1ZvwfMcbp7XrSYNuEqr2vw.c7_Mh51dq-K-EYPqxjLi9KUdP59sjoywtVDncVN6v44&dib_tag=se&keywords=mobiles&qid=1744696057&sr=8-4
+3. **Dark pattern detected?:** No
+
+1. **Product title:** Samsung Galaxy M35 5G (Daybreak Blue,8GB RAM,128GB Storage)| Corning Gorilla Glass Victus+| AnTuTu Score 595K+ | Vapour Cooling Chamber | 6000mAh Battery | 120Hz Super AMOLED Display| Without Charger
+2. **Product URL:** https://www.amazon.in/Samsung-Daybreak-Storage-Corning-Gorilla/dp/B0D7Z8FJZ9/ref=sr_1_5?dib=eyJ2IjoiMSJ9.Zu16M0f4gcJTITvmFzGqszW-Apfe-FsYhV-0doXh17R9Q2D-AXj8U0r6pIA3BPB10MpNwx5RHEavD5E1OhGBewNDnx9eC3Ss41ythqCmDDRyGUzvmyIhOEo-BETfojFRQy4Z6hFYK_7sw-o8E5WVBidDTIPwXuAl4joZq11K3pQoYW2H6_lhAFQ7_O6HbdId08Pa3WEUVnoYyy2GzimJB1ZvwfMcbp7XrSYNuEqr2vw.c7_Mh51dq-K-EYPqxjLi9KUdP59sjoywtVDncVN6v44&dib_tag=se&keywords=mobiles&qid=1744696057&sr=8-5
+3. **Dark pattern detected?:** No
+
+1. **Product title:** Redmi Note 14 5G (Titan Black, 8GB RAM 256GB Storage) | Global Debut MTK Dimensity 7025 Ultra | 2100 nits Segment Brightest 120Hz AMOLED | 50MP Sony LYT 600 OIS+EIS Triple Camera
+2. **Product URL:** https://www.amazon.in/Redmi-Note-14-5G-Dimensity/dp/B0DPFVDFT3/ref=sr_1_6?dib=eyJ2IjoiMSJ9.Zu16M0f4gcJTITvmFzGqszW-Apfe-FsYhV-0doXh17R9Q2D-AXj8U0r6pIA3BPB10MpNwx5RHEavD5E1OhGBewNDnx9eC3Ss41ythqCmDDRyGUzvmyIhOEo-BETfojFRQy4Z6hFYK_7sw-o8E5WVBidDTIPwXuAl4joZq11K3pQoYW2H6_lhAFQ7_O6HbdId08Pa3WEUVnoYyy2GzimJB1ZvwfMcbp7XrSYNuEqr2vw.c7_Mh51dq-K-EYPqxjLi9KUdP59sjoywtVDncVN6v44&dib_tag=se&keywords=mobiles&qid=1744696057&sr=8-6
+3. **Dark pattern detected?:** No
+
+1. **Product title:** realme NARZO N61 (Voyage Blue,6GB RAM+128GB Storage) 90Hz Eye Comfort Display | IP54 Dust & Water Resistance | 48-Month Fluency | Charger in The Box
+2. **Product URL:** https://www.amazon.in/realme-Storage-Comfort-Resistance-48-Month/dp/B0D947DTLT/ref=sr_1_7?dib=eyJ2IjoiMSJ9.Zu16M0f4gcJTITvmFzGqszW-Apfe-FsYhV-0doXh17R9Q2D-AXj8U0r6pIA3BPB10MpNwx5RHEavD5E1OhGBewNDnx9eC3Ss41ythqCmDDRyGUzvmyIhOEo-BETfojFRQy4Z6hFYK_7sw-o8E5WVBidDTIPwXuAl4joZq11K3pQoYW2H6_lhAFQ7_O6HbdId08Pa3WEUVnoYyy2GzimJB1ZvwfMcbp7XrSYNuEqr2vw.c7_Mh51dq-K-EYPqxjLi9KUdP59sjoywtVDncVN6v44&dib_tag=se&keywords=mobiles&qid=1744696057&sr=8-7
+3. **Dark pattern detected?:** No
+
+1. **Product title:** realme GT 6T 5G (Fluid Silver,12GB RAM+256GB Storage) | India's 1st 7+ Gen 3 Flagship Chipset | 1.5M + AnTuTu Score | 5500mAh+120W | The World's Brightest Flagship Display
+2. **Product URL:** https://www.amazon.in/realme-Storage-Flagship-Chipset-Brightest/dp/B0D3J8HYDD/ref=sr_1_8?dib=eyJ2IjoiMSJ9.Zu16M0f4gcJTITvmFzGqszW-Apfe-FsYhV-0doXh17R9Q2D-AXj8U0r6pIA3BPB10MpNwx5RHEavD5E1OhGBewNDnx9eC3Ss41ythqCmDDRyGUzvmyIhOEo-BETfojFRQy4Z6hFYK_7sw-o8E5WVBidDTIPwXuAl4joZq11K3pQoYW2H6_lhAFQ7_O6HbdId08Pa3WEUVnoYyy2GzimJB1ZvwfMcbp7XrSYNuEqr2vw.c7_Mh51dq-K-EYPqxjLi9KUdP59sjoywtVDncVN6v44&dib_tag=se&keywords=mobiles&qid=1744696057&sr=8-8
+3. **Dark pattern detected?:** No
+
+1. **Product title:** realme 13 Pro 5G (Monet Gold,12GB+512GB)
+2. **Product URL:** https://www.amazon.in/realme-Monet-Gold-12GB-512GB/dp/B0DBLX3377/ref=sr_1_9?dib=eyJ2IjoiMSJ9.Zu16M0f4gcJTITvmFzGqszW-Apfe-FsYhV-0doXh17R9Q2D-AXj8U0r6pIA3BPB10MpNwx5RHEavD5E1OhGBewNDnx9eC3Ss41ythqCmDDRyGUzvmyIhOEo-BETfojFRQy4Z6hFYK_7sw-o8E5WVBidDTIPwXuAl4joZq11K3pQoYW2H6_lhAFQ7_O6HbdId08Pa3WEUVnoYyy2GzimJB1ZvwfMcbp7XrSYNuEqr2vw.c7_Mh51dq-K-EYPqxjLi9KUdP59sjoywtVDncVN6v44&dib_tag=se&keywords=mobiles&qid=1744696057&sr=8-9
+3. **Dark pattern detected?:** No
+
+1. **Product title:** iQOO Z9 Lite 5G (Mocha Brown, 6GB RAM, 128GB Storage) | Dimensity 6300 5G | 50MP Sony AI Camera | Charger in The Box
+2. **Product URL:** https://www.amazon.in/iQOO-Storage-Dimensity-Camera-Charger/dp/B07WHQS4LB/ref=sr_1_10?dib=eyJ2IjoiMSJ9.Zu16M0f4gcJTITvmFzGqszW-Apfe-FsYhV-0doXh17R9Q2D-AXj8U0r6pIA3BPB10MpNwx5RHEavD5E1OhGBewNDnx9eC3Ss41ythqCmDDRyGUzvmyIhOEo-BETfojFRQy4Z6hFYK_7sw-o8E5WVBidDTIPwXuAl4joZq11K3pQoYW2H6_lhAFQ7_O6HbdId08Pa3WEUVnoYyy2GzimJB1ZvwfMcbp7XrSYNuEqr2vw.c7_Mh51dq-K-EYPqxjLi9KUdP59sjoywtVDncVN6v44&dib_tag=se&keywords=mobiles&qid=1744696057&sr=8-10
+3. **Dark pattern detected?:** No
+
+1. **Product title:** iPhone 16 Pro Max 256 GB: 5G Mobile Phone with Camera Control, 4K 120 fps Dolby Vision and a Huge Leap in Battery Life. Works with AirPods; Black Titanium
+2. **Product URL:** Not available
+3. **Dark pattern detected?:** No
+
+1. **Product title:** OnePlus Nord 4 5G (Obsidian Midnight, 8GB RAM, 256GB Storage)
+2. **Product URL:** Not available
+3. **Dark pattern detected?:** No
+
+1. **Product title:** POCO C61 Diamond Dust Black 4GB RAM 64GB ROM
+2. **Product URL:** https://www.amazon.in/POCO-Diamond-Dust-Black-64GB/dp/B0CYBBB82G/ref=sr_1_13?dib=eyJ2IjoiMSJ9.Zu16M0f4gcJTITvmFzGqszW-Apfe-FsYhV-0doXh17R9Q2D-AXj8U0r6pIA3BPB10MpNwx5RHEavD5E1OhGBewNDnx9eC3Ss41ythqCmDDRyGUzvmyIhOEo-BETfojFRQy4Z6hFYK_7sw-o8E5WVBidDTIPwXuAl4joZq11K3pQoYW2H6_lhAFQ7_O6HbdId08Pa3WEUVnoYyy2GzimJB1ZvwfMcbp7XrSYNuEqr2vw.c7_Mh51dq-K-EYPqxjLi9KUdP59sjoywtVDncVN6v44&dib_tag=se&keywords=mobiles&qid=1744696057&sr=8-13
+3. **Dark pattern detected?:** No
+
+1. **Product title:** POCO M6 5G (Polaris Green,4GB RAM, 128GB Storage) | MediaTek Dimensity 6100+ 5G Processor | 5000 mAh Battery + 18W Fast Charging | 50 MP AI Dual-Camera System| Airtel Locked
+2. **Product URL:** https://www.amazon.in/POCO-MediaTek-Dimensity-Processor-Dual-Camera/dp/B0DR2X5DP4/ref=sr_1_14?dib=eyJ2IjoiMSJ9.Zu16M0f4gcJTITvmFzGqszW-Apfe-FsYhV-0doXh17R9Q2D-AXj8U0r6pIA3BPB10MpNwx5RHEavD5E1OhGBewNDnx9eC3Ss41ythqCmDDRyGUzvmyIhOEo-BETfojFRQy4Z6hFYK_7sw-o8E5WVBidDTIPwXuAl4joZq11K3pQoYW2H6_lhAFQ7_O6HbdId08Pa3WEUVnoYyy2GzimJB1ZvwfMcbp7XrSYNuEqr2vw.c7_Mh51dq-K-EYPqxjLi9KUdP59sjoywtVDncVN6v44&dib_tag=se&keywords=mobiles&qid=1744696057&sr=8-14
+3. **Dark pattern detected?:** No  (While "Airtel Locked" might be considered misleading, it's not a deceptive pricing or discount strategy.)
+
+1. **Product title:** OnePlus Nord CE4 Lite 5G (Super Silver, 8GB RAM, 128GB Storage)
+2. **Product URL:** https://www.amazon.in/OnePlus-Super-Silver-128GB-Storage/dp/B0D5YCYS1G/ref=sr_1_15?dib=eyJ2IjoiMSJ9.Zu16M0f4gcJTITvmFzGqszW-Apfe-FsYhV-0doXh17R9Q2D-AXj8U0r6pIA3BPB10MpNwx5RHEavD5E1OhGBewNDnx9eC3Ss41ythqCmDDRyGUzvmyIhOEo-BETfojFRQy4Z6hFYK_7sw-o8E5WVBidDTIPwXuAl4joZq11K3pQoYW2H6_lhAFQ7_O6HbdId08Pa3WEUVnoYyy2GzimJB1ZvwfMcbp7XrSYNuEqr2vw.c7_Mh51dq-K-EYPqxjLi9KUdP59sjoywtVDncVN6v44&dib_tag=se&keywords=mobiles&qid=1744696057&sr=8-15
+3. **Dark pattern detected?:** No
+

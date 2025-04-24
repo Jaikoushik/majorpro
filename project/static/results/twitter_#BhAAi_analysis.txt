@@ -1,0 +1,95 @@
+Tweet 1: overwatch x.com/RedLi8ning11/s…
+Analysis: Not a dark pattern. This is a simple tweet linking to an Overwatch-related post.  No deceptive practices are evident.
+
+Tweet 2: We hope you had an amazing day... Happy Vishu, Puthandu, Bohag Bihu, & Maha Bishuba Pana Sankranti 
+Analysis: Not a dark pattern. This is a simple well-wishing message for various festivals.
+
+Tweet 3: "skip bayless vs 20 lebron stans" is such a funny idea...
+Analysis: Not a dark pattern. This is an opinion about a potential online debate format.
+
+Tweet 4: "For the Hindu women of Murshidabad, the BSF is like God. The state police are sitting idle wearing bangles?", Viral Video
+Analysis: Potentially a dark pattern.  The phrasing is inflammatory and uses a stereotype ("wearing bangles") to create a biased narrative. This could be manipulative, aiming to evoke strong emotional responses and potentially spread misinformation.  The political nature is highly charged and potentially divisive.
+
+Tweet 5: Mass personified ft. Rebel Star Prabhas
+Analysis: Not a dark pattern. This is promotional material for Prabhas.
+
+Tweet 6: Jasprit Bumrah hugging Karun Nair after the match - A lovely video.
+Analysis: Not a dark pattern. This is a positive comment on a sports video.
+
+Tweet 7: $ALAB ... No position yet but watching it this week for a potential Short setup in case the market...
+Analysis: Not a dark pattern. This is a typical financial market analysis tweet.  While it discusses a potential short sale, it's presented as an opinion and doesn't pressure anyone into action.
+
+Tweet 8: SHOCKING  MAULANA : Indian Railways, Indian Defence have occupied our Waqf land...
+Analysis: Potentially a dark pattern. The use of "SHOCKING" is sensationalist and aims to grab attention. The content itself is a claim that needs verification and could be used to spread misinformation or incite conflict. The political context is highly sensitive.
+
+Tweet 9: Wow I guess I should have driven to the library and spent my entire day looking through books. Like a smart person. x.com/flam1ng0p1nk/s…
+Analysis: Not a dark pattern. This is sarcastic self-deprecation.
+
+Tweet 10: Soon, AI will far exceed the best humans in reasoning x.com/marionawfal/st…
+Analysis: Not a dark pattern. This is a prediction about AI development.
+
+Tweet 11: Nigga sephiroth is near x.com/popcrave/statu…
+Analysis: Potentially a dark pattern. The use of a racial slur is offensive and inappropriate. While not directly manipulative in a dark pattern sense, it contributes to a harmful online environment.
+
+Tweet 12: Skip Bayless vs 20 Bronsexuals is a so much better use for this format than debating whether trans people deserve human rights x.com/Sports_Legacyy…
+Analysis: Potentially a dark pattern. This tweet uses derogatory language ("Bronsexuals") and dismissively compares a sports debate to a discussion about human rights. This is manipulative, attempting to trivialize an important issue. The political context is highly relevant.
+
+Tweet 13: BIG NEWS  England Cricketer James Vince gets Hair Dryer for hitting Century in Pakistan Super League...
+Analysis: Not a dark pattern. This is a news item about an unusual award.
+
+Tweet 14: MS Dhoni said, "I was thinking why I won the POTM award, Noor bowled well". - MS Dhoni, a legend.
+Analysis: Not a dark pattern. This is a quote from a sports figure.
+
+Tweet 15: people who make having an iphone their entire personality are the worst x.com/usermooseontwt…
+Analysis: Not a dark pattern. This is a generalized opinion.
+
+Tweet 16: *JPMORGAN LIMITS INFORMATION SHARING WITH OCC AFTER HACK...
+Analysis: Not a dark pattern. This is a news headline and commentary.
+
+Tweet 17: LSG Owner with Rishabh Pant after a tough loss.
+Analysis: Not a dark pattern. This is a simple description of a photo or video.
+
+Tweet 18: MS Dhoni appreciating the spell of Digvesh Rathi.
+Analysis: Not a dark pattern. This is a positive comment on a sports event.
+
+Tweet 19: Murshidabad — A resident of Dhuliyan, says: "We want PEACE and SECURITY..."
+Analysis: Not a dark pattern. This is a quote from a resident expressing their concerns.
+
+Tweet 20: Never expected Karun Nair to make such a grand comeback
+Analysis: Not a dark pattern. This is a positive comment on a sports event.
+
+Tweet 21: Morgan Stanley issues warning: Expect to be 'fooled many more times' on tariffs...
+Analysis: Not a dark pattern. This is a news headline.
+
+Tweet 22: You have not seen yet such Bhasm Arti of Mahakal ... If its appear on your TL , you are blessed
+Analysis: Potentially a dark pattern.  The phrasing ("blessed") implies a reward for seeing the content, which could be manipulative.  It's a form of positive reinforcement to encourage engagement.
+
+Tweet 23: A GOOD INNINGS BY SHAIKH RASHEED ON CSK DEBUT.
+Analysis: Not a dark pattern. This is a positive comment on a sports event.
+
+Tweet 24: Is Sephiroth looming over them or something why is there a black feather x.com/popcrave/statu…
+Analysis: Not a dark pattern. This is a question related to a video or image.
+
+Tweet 25: “I’ve been doing this for 35 years – I’m in awe of how smart the market is. It makes us all look like fools,” says Morgan Stanley’s Mike Wilson.
+Analysis: Not a dark pattern. This is a quote from a financial expert.
+
+Tweet 26: no - there are not 3D characters x.com/azed_ai/status…
+Analysis: Not a dark pattern. This is a simple denial.
+
+Tweet 27: A lovely moment by Dhoni & Pant during toss
+Analysis: Not a dark pattern. This is a positive comment on a sports event.
+
+Tweet 28: “I think it’s just completely chaotic,” says Former Fed Chair Janet Yellen on tariffs.
+Analysis: Not a dark pattern. This is a quote from a financial expert.
+
+Tweet 29: Dropped from ICT... Back after 3 years...
+Analysis: Not a dark pattern. This is a narrative about a sportsperson's comeback.
+
+Tweet 30: i don’t mind toph being more feminine in theory but the point is that she chose not to be...
+Analysis: Not a dark pattern. This is an opinion about a fictional character.
+
+Tweet 31: Can’t wait for @tarak9999’s #Dragon with the powerhouse #PrashanthNeel...
+Analysis: Not a dark pattern. This is an expression of anticipation for a movie.
+
+Tweet 32: Just as the President said "the stock market is up today," the S&P turned negative.
+Analysis: Not a dark pattern. This is an observation about a political statement and market reaction.

@@ -1,0 +1,76 @@
+1. **Product title:** Men Casual Shoes with PU Upper
+2. **Product URL:** https://www.ajio.com/red-tape-men-casual-shoes-with-pu-upper/p/701397158_green
+3. **Dark pattern detected?:** Yes.  The 83% discount suggests a significantly inflated original price.
+
+1. **Product title:** Initiator Lace-Up Running Shoes
+2. **Product URL:** https://www.ajio.com/nike-initiator-lace-up-running-shoes/p/469647549_blackgrey
+3. **Dark pattern detected?:** No.
+
+1. **Product title:** Blazer Low '77 Vintage Sports Shoes
+2. **Product URL:** https://www.ajio.com/nike-blazer-low-77-vintage-sports-shoes/p/469647365_white
+3. **Dark pattern detected?:** No.
+
+1. **Product title:** Full Force Lo Basketball Shoes
+2. **Product URL:** https://www.ajio.com/nike-full-force-lo-basketball-shoes/p/469647544_white
+3. **Dark pattern detected?:** No.
+
+1. **Product title:** Round-Toe Derby Shoes
+2. **Product URL:** https://www.ajio.com/clarks-round-toe-derby-shoes/p/469145457_black
+3. **Dark pattern detected?:** Yes. The 70% discount suggests a significantly inflated original price.
+
+1. **Product title:** Men Formal Lace-Up Shoes
+2. **Product URL:** https://www.ajio.com/desiderio-men-formal-lace-up-shoes-/p/701316282_brown
+3. **Dark pattern detected?:** Yes. The 72% discount suggests a significantly inflated original price.
+
+1. **Product title:** Revolution 7 Running Shoes
+2. **Product URL:** https://www.ajio.com/nike-revolution-7-running-shoes/p/469612946_black
+3. **Dark pattern detected?:** No.
+
+1. **Product title:** Men Low-Top Shoes with Lace Fastening
+2. **Product URL:** https://www.ajio.com/red-tape-men-low-top-shoes-with-lace-fastening/p/701091424_white
+3. **Dark pattern detected?:** Yes. The 83% discount suggests a significantly inflated original price.
+
+1. **Product title:** Women Casual Shoes
+2. **Product URL:** https://www.ajio.com/ginger-by-lifestyle-women-casual-shoes-/p/701169149_grey
+3. **Dark pattern detected?:** No.
+
+1. **Product title:** Low-Top Slip-On Shoes
+2. **Product URL:** https://www.ajio.com/haute--spicy-low-top-slip-on-shoes/p/441294461_pink
+3. **Dark pattern detected?:** No.
+
+1. **Product title:** Air Force 1 '07 Lace-Up Sneakers
+2. **Product URL:** https://www.ajio.com/nike-air-force-1-07-lace-up-sneakers/p/460886328_black
+3. **Dark pattern detected?:** No.
+
+1. **Product title:** Men Formal Lace-Up Shoes
+2. **Product URL:** https://www.ajio.com/desiderio-men-formal-lace-up-shoes-/p/701316257_tan
+3. **Dark pattern detected?:** Yes. The 72% discount suggests a significantly inflated original price.
+
+1. **Product title:** Air Zoom Pegasus 41 Running Shoes
+2. **Product URL:** https://www.ajio.com/nike-air-zoom-pegasus-41-running-shoes/p/469647445_blackgrey
+3. **Dark pattern detected?:** No.
+
+1. **Product title:** Men Lace-Up Derby Shoes
+2. **Product URL:** https://www.ajio.com/clarks-men-lace-up-derby-shoes/p/469275417_black
+3. **Dark pattern detected?:** Yes. The 67% discount suggests a significantly inflated original price.
+
+1. **Product title:** Pointed-Toe Lace-Up Derbys
+2. **Product URL:** https://www.ajio.com/red-chief-pointed-toe-lace-up-derbys/p/465427855_black
+3. **Dark pattern detected?:** No.
+
+1. **Product title:** Men Sneakers with PU upper
+2. **Product URL:** https://www.ajio.com/red-tape-men-sneakers-with-pu-upper/p/700765676_white
+3. **Dark pattern detected?:** Yes. The 83% discount suggests a significantly inflated original price.
+
+1. **Product title:** Low-Top Slip-On Shoes
+2. **Product URL:** https://www.ajio.com/haute--spicy-low-top-slip-on-shoes/p/441294461_beige
+3. **Dark pattern detected?:** No.
+
+1. **Product title:** Lace-Up Casual Shoes
+2. **Product URL:** https://www.ajio.com/cristofano-lace-up-casual-shoes/p/450151201_white
+3. **Dark pattern detected?:** No.
+
+1. **Product title:** Blazer Mid'77 Vintage High-Top Lace-Up Casual Shoes
+2. **Product URL:** https://www.ajio.com/nike-blazer-mid-77-vintage-high-top-lace-up-casual-shoes/p/460681703_white
+3. **Dark pattern detected?:** No.
+
